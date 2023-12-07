@@ -1,0 +1,13 @@
+th, td {
+    border: 5px solid rgb(61, 13, 55);
+    padding: 15px;
+}
+
+table {
+    border-collapse: collapse;
+}
+body{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
